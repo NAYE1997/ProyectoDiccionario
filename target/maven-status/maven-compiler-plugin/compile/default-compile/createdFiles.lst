@@ -1,0 +1,6 @@
+ec\edu\espoch\diccionario\dao\DiccionarioDao.class
+ec\edu\espoch\diccionario\controller\DiccionarioController.class
+com\mycompany\diccionarioinglesespaniol\DiccionarioInglesEspaniol.class
+ec\edu\espoch\diccionarios\App.class
+ec\edu\espoch\diccionario\model\Palabra.class
+ec\edu\espoch\diccionario\model\Verbo.class
